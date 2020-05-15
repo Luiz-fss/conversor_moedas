@@ -1,10 +1,16 @@
 # conversormoeda
 
-A new Flutter application.
+Aplicação desenvolvida em Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Aplicativo faz conversões de moeda (reais, dólares e euros).
+
+Link para a API utilizada:
+https://hgbrasil.com/status/finance
+
+Plugins utilizados:
+http: ^0.12.1
 
 A few resources to get you started if this is your first Flutter project:
 
